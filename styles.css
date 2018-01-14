@@ -1,0 +1,30 @@
+.form-control {
+  display: inline-block;
+  width: 120px;
+  margin-top: 20px;
+}
+
+#clear {
+  margin-left: 50px;
+}
+
+h1, h2 {
+
+  text-align:center;
+}
+
+.low {
+  margin-top: 240px;
+  font-size: 50px;
+}
+
+.header {
+  height: 300px;
+  overflow: auto;
+  background-image:url("spaceship.jpg");
+}
+
+body {
+  font-family: 'Lato', arial, sans-serif;
+  background: #D8D8E3;
+}
